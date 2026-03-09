@@ -1,0 +1,8 @@
+{
+  "voices": {
+    "customer_service_cn_female": {
+      "prompt_text": "You are a helpful assistant.<|endofprompt|>希望以后你能做的比我还好哦。",
+      "prompt_wav": "../../../asset/zero_shot_prompt.wav"
+    }
+  }
+}
